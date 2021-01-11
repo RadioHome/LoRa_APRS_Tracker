@@ -1,6 +1,6 @@
-
 #ifndef DISPLAY_H_
 #define DISPLAY_H_
+#define SH1106
 
 void setup_display();
 
